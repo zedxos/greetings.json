@@ -1,0 +1,1 @@
+var greets = ['Wishing you a Great Day! From your dearest friend', 'I am sending you this SMS to specifically wish you a nice day. Have a Nice Day', 'Good day user!', 'Stay safe!', 'Good day! Cheer up!', 'Hope you're doing Nice!', 'Here have a virtual hug!']
